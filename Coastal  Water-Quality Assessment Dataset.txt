@@ -1,0 +1,16 @@
+GLORIA coastal hyperspectral Rrs
+https://doi.pangaea.de/10.1594/PANGAEA.948492
+
+Sentinel-2 MSI
+https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access/sentinel-products/sentinel-2-
+data-products/collection-1-level-2a
+
+Landsat time series
+https://www.usgs.gov/landsat-missions/landsat-collection-2-surface-reflectance
+
+M4 – Environmental
+https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=download
+
+M6 – Biological/Ecological
+https://www.earthdata.nasa.gov/data/catalog/ob-cloud-modisa-l3m-chl-2022.0
+https://zenodo.org/records/6894273
